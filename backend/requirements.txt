@@ -1,0 +1,7 @@
+Flask-Cors
+Flask
+requests
+jsonify
+joblib
+scikit-learn
+sklearn-preprocessing
