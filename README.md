@@ -37,11 +37,11 @@ psy-geek/
    ```
 
 2. **Set Up the Backend**:
-  ```bash
-  cd backend
-  py app.py
-
-  ```
+   ```bash
+   cd backend
+   pip install -r requirements.txt
+   py app.py
+   ```
 
 3. **Set Up the Frontend**:
    * Navigate to the `frontend/` directory.
